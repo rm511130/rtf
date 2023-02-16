@@ -30,6 +30,6 @@ The example above will execute the script on omicron.physna.com against foder ID
 This third example returns a message with the expected syntax because the command is missing mandatory parameters
 
 
-## Example of "Broken Thumbnails" that `rtf.sh` can correct
+## Example of problems that `rtf.sh` can correct
 
-![](./images/broken-thumbails.jpg)
+![](./images/broken-thumbnails.jpg)
