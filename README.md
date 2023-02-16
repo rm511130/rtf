@@ -39,7 +39,7 @@ This third example returns a message with the expected syntax because the comman
 The command `$ ./rtf.sh nut 12` produced the following log:
 
 ```
-/mnt/c/Users/Ralph$ ./rtf.sh nu 12
+/mnt/c/Users/Ralph $ ./rtf.sh nut 12
 Reprocess-Thumbnail-Fix on nu.physna.com  folderId = 12 and skip-assemblies = no
 978ece7f-627a-40ca-9f5d-26596b4f6d30 "Cylinder_009" ".GLB" part Thumbnail is OK
 978ece82-6945-4bb6-a0bd-f561f80f68f3 "Cylinder_011" ".GLB" part Thumbnail is OK
