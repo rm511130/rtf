@@ -40,7 +40,7 @@ The command `$ ./rtf.sh nut 12` produced the following log:
 
 ```
 /mnt/c/Users/Ralph $ ./rtf.sh nut 12
-Reprocess-Thumbnail-Fix on nu.physna.com  folderId = 12 and skip-assemblies = no
+Reprocess-Thumbnail-Fix on nut.physna.com  folderId = 12 and skip-assemblies = no
 978ece7f-627a-40ca-9f5d-26596b4f6d30 "Cylinder_009" ".GLB" part Thumbnail is OK
 978ece82-6945-4bb6-a0bd-f561f80f68f3 "Cylinder_011" ".GLB" part Thumbnail is OK
 978ece79-6d20-4e90-92f3-dac4d9156886 "Body_contours_002" ".GLB" part Thumbnail is OK
@@ -60,24 +60,24 @@ Reprocess-Thumbnail-Fix on nu.physna.com  folderId = 12 and skip-assemblies = no
 978ecedf-a821-4c60-8ccd-f1022a190dee "Plane_022" ".GLB" part Thumbnail is OK
 978ecee2-4c82-447e-be59-78fc0898ab67 "Plane_025" ".GLB" part Thumbnail is OK
 978ecee4-5c56-4b57-8a1c-2f458afd95f5 "Plane_029" ".GLB" part
-/mnt/c/Users/Ralph/pcli.exe -t nu reprocess --uuid 978ecee4-5c56-4b57-8a1c-2f458afd95f5
+/mnt/c/Users/Ralph/pcli.exe -t nut reprocess --uuid 978ecee4-5c56-4b57-8a1c-2f458afd95f5
 978eceed-8421-4ca3-8849-7d8464aaef7e "Plane_033" ".GLB" part Thumbnail is OK
 978ecee7-d8ef-411a-b7eb-26884f0e86cd "Plane_031" ".GLB" part Thumbnail is OK
 978ecee9-bacf-47f3-9d93-1423162834a5 "Plane_032" ".GLB" part
-/mnt/c/Users/Ralph/pcli.exe -t nu reprocess --uuid 978ecee9-bacf-47f3-9d93-1423162834a5
+/mnt/c/Users/Ralph/pcli.exe -t nut reprocess --uuid 978ecee9-bacf-47f3-9d93-1423162834a5
 978ecfb0-d457-46b6-8af5-55c6fe30e139 "Plane_035_019" ".GLB" part
-/mnt/c/Users/Ralph/pcli.exe -t nu reprocess --uuid 978ecfb0-d457-46b6-8af5-55c6fe30e139
+/mnt/c/Users/Ralph/pcli.exe -t nut reprocess --uuid 978ecfb0-d457-46b6-8af5-55c6fe30e139
 978ecfc9-6652-4146-ad7a-dc79f3184085 "Plane_039" ".GLB" part Thumbnail is OK
 978ecfc3-26db-49e7-970a-c83b74b8d1b6 "Plane_036" ".GLB" part
-/mnt/c/Users/Ralph/pcli.exe -t nu reprocess --uuid 978ecfc3-26db-49e7-970a-c83b74b8d1b6
+/mnt/c/Users/Ralph/pcli.exe -t nut reprocess --uuid 978ecfc3-26db-49e7-970a-c83b74b8d1b6
 978ecfce-de61-4ac6-82bc-90a1ad0814c2 "Plane_041" ".GLB" part
-/mnt/c/Users/Ralph/pcli.exe -t nu reprocess --uuid 978ecfce-de61-4ac6-82bc-90a1ad0814c2
+/mnt/c/Users/Ralph/pcli.exe -t nut reprocess --uuid 978ecfce-de61-4ac6-82bc-90a1ad0814c2
 978ecfdd-1680-4dea-9415-77a255c28f88 "Sphere_001" ".GLB" part Thumbnail is OK
 978ecfe0-962b-4ca0-87cc-51e2e385884c "Sphere_002" ".GLB" part Thumbnail is OK
 978ecfe2-9c97-4f0b-bf13-3e09e305983f "Sphere_004" ".GLB" part
-/mnt/c/Users/Ralph/pcli.exe -t nu reprocess --uuid 978ecfe2-9c97-4f0b-bf13-3e09e305983f
+/mnt/c/Users/Ralph/pcli.exe -t nut reprocess --uuid 978ecfe2-9c97-4f0b-bf13-3e09e305983f
 978ecfda-cdee-4fca-bd80-e988b9f0fe45 "RunningGirl" ".GLB" part
-/mnt/c/Users/Ralph/pcli.exe -t nu reprocess --uuid 978ecfda-cdee-4fca-bd80-e988b9f0fe45
+/mnt/c/Users/Ralph/pcli.exe -t nut reprocess --uuid 978ecfda-cdee-4fca-bd80-e988b9f0fe45
 978ecfe6-1b80-4dc8-9f9b-6d395d2d5cd0 "Sphere_010" ".GLB" part Thumbnail is OK
 978ecfe9-7709-4152-995c-d79d43b230a0 "staff_remesh_003" ".GLB" part Thumbnail is OK
 978ef3fd-345a-4746-83c1-907648bbc4cd "Jumping_Girl" ".GLB" part Thumbnail is OK
